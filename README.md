@@ -4,7 +4,7 @@ The Magic Leap system was used to build a 3D data visualization of the airplanes
 
 <table>
   <tr>
-    <td><img src="Screenshots/Screenshots/tracker1.jpg" width="200"></td>
+    <td><img src="Screenshots/Screenshot/tracker1.jpg" width="200"></td>
     <td><img src="Screenshots/Screenshot/tracker2.jpg" width="200"></td>
   </tr>
 </table>
